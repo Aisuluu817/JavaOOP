@@ -3,6 +3,7 @@ This is my final project for Programming Languages 2 course
 
 ## Title of the Project – Quizzz
 The original code was taken from https://github.com/wadiemendja/Multiple-Choice-Quiz, and modified by me, so it meets the requirements of Final Project submission and satisfies my preferences.
+The full Project Report provided in Wiki component.
 
 ## Background
 As for me it is always easier to memorize new topic by using flashcards or by taking the multiple choice quiz. That’s why as for Final Project I decided to make a Java quiz, that will help students to memorize some Java semantics and syntax.
