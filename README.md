@@ -8,21 +8,33 @@ The original code was taken from https://github.com/wadiemendja/Multiple-Choice-
 As for me it is always easier to memorize new topic by using flashcards or by taking the multiple choice quiz. That’s why as for Final Project I decided to make a Java quiz, that will help students to memorize some Java semantics and syntax.
 
 ## Changes
-Created file Record.txt, Name.java and Results.java classes to enter the user’s name and save it to the file with the score.
-Changed the design of buttons, sizes of fonts, colors, foreground and background, so it looks nicer
-Added new buttons
-Changed questions, answers, options and hints
-Renamed some classes, so it meets the standard (proper names for classes starting with capital letter)
-Handled (threw) exceptions
-Added comments
-Provided full report(can be viewed in Wiki)
+-Created file Record.txt, Name.java and Results.java classes to enter the user’s name and save it to the file with the score.
+
+-Changed the design of buttons, sizes of fonts, colors, foreground and background, so it looks nicer.
+
+-Added new buttons.
+
+-Changed questions, answers, options and hints.
+
+-Renamed some classes, so it meets the standard (proper names for classes starting with capital letter).
+
+-Handled (threw) exceptions.
+
+-Added comments.
+
+-Provided full report(can be viewed in Wiki).
 
 ## Feature list:
 -Classes with creating objects
+
 -Swing and JavaFx GUI Frameworks
+
 -Exceptions handling
+
 -Working with files as database – saving the user’s name, list of previous attempts
+
 -png images – for hints
+
 -record of time – as 60s passes the quiz will automatically finish even though user haven’t finished it.
 
 ## Project Description
