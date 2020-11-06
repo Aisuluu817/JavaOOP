@@ -29,8 +29,10 @@ It is a multiple choice quiz consisting of 10 questions (number of questions can
 
 Also there are two hints that user can pick: 1) that looks like a lamp, which gives you a clue to the right answer and 2) 50:50 that eliminates the wrong answers and gives you a chance 50% to pick a correct answer. After you choose one option (among four) it moves to the next question. As user completes the quiz the record of the correct answers appears on the pane. User has an option to save the score with name (user can enter the name) or to exit the quiz-game.
 
-![quiz](https://github.com/Aisuluu817/JavaOOP/blob/master/QuizzzFinal/img/screen_quiz.png)
+![](https://github.com/Aisuluu817/JavaOOP/blob/master/QuizzzFinal/img/screenshots/screen_quiz.png)
+
 ![save result](https://github.com/Aisuluu817/JavaOOP/blob/master/QuizzzFinal/img/screenshots/screen_result.png)
+
 ![record](https://github.com/Aisuluu817/JavaOOP/blob/master/QuizzzFinal/img/screenshots/screen_record.png)
 
 
