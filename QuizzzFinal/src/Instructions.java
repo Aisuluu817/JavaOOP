@@ -9,11 +9,13 @@ class Instructions  extends JFrame{
       setSize(400,400);
       setLocationRelativeTo(null);
       setResizable(false);
+
       JPanel pan = new JPanel () ;
       pan.setSize(this.getSize().width,this.getSize().height);
       pan.setBackground(new java.awt.Color(0xC1AFF4));
       pan.setLayout(null);
       setContentPane(pan);
+
       JLabel howLabel = new JLabel("<html><center>You Have "+ time/60+" min To Answer 10 Different Questions"
                               + " And You Can Use The Helping Tools Such As 50:50 To remove two options "
                                     + "Or The Hint To give You A Little Clue About The Answer.</center></html>");
