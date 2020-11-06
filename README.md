@@ -1,8 +1,7 @@
-# JavaFinalExam
-This is my final project for Programming Languages 2 course
+# CS-201 course MidTerm Project
+This is my final project for Object Oriented Programming course.
 
-## Title of the Project – Quizzz
-The original code was taken from https://github.com/wadiemendja/Multiple-Choice-Quiz, and modified by me, so it meets the requirements of Final Project submission and satisfies my preferences.
+## Title of the Project – Quiz
 The full Project Report provided in Wiki component.
 
 ## Background
@@ -10,6 +9,8 @@ As for me it is always easier to memorize new topic by using flashcards or by ta
 
 ## Feature list:
 -Classes with creating objects
+
+-OOP
 
 -Swing and JavaFx GUI Frameworks
 
