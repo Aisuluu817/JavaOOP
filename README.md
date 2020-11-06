@@ -3,6 +3,7 @@ This is my final project for Object Oriented Programming course.
 
 ## Title of the Project – Quiz
 The full Project Report provided in Wiki component.
+![main page](https://github.com/Aisuluu817/JavaOOP/blob/master/QuizzzFinal/img/screenshots/screen_main.png)
 
 ## Background
 As for me it is always easier to memorize new topic by using flashcards or by taking the multiple choice quiz. That’s why as for Final Project I decided to make a Java quiz, that will help students to memorize some Java semantics and syntax.
@@ -23,9 +24,14 @@ As for me it is always easier to memorize new topic by using flashcards or by ta
 -record of time – as 60s passes the quiz will automatically finish even though user haven’t finished it.
 
 ## Project Description
-It is a multiple choice quiz consisting of 10 questions (number of questions can be changed according to the user) related to Java Programming language. There is a time limit to take this quiz. The user is given 1 minute to complete it. Also there are two hints that user can pick: 1) that looks like a lamp, which gives you a clue to the right answer and 2) 50:50 that eliminates the wrong answers and gives you a chance 50% to pick a correct answer. After you choose one option (among four) it moves to the next question. As user completes the quiz the record of the correct answers appears on the pane. User has an option to save the score with name (user can enter the name) or to exit the quiz-game.
+It is a multiple choice quiz consisting of 10 questions (number of questions can be changed according to the user) related to Java Programming language. There is a time limit to take this quiz. The user is given 1 minute to complete it. 
+![instructions](https://github.com/Aisuluu817/JavaOOP/blob/master/QuizzzFinal/img/screenshots/screen_instructions.png)
 
-![This is how WelcomePage looks like](https://github.com/Aisuluu817/JavaFinalExam/blob/master/QuizzzFinal/Img/WelcomePage.png)
+Also there are two hints that user can pick: 1) that looks like a lamp, which gives you a clue to the right answer and 2) 50:50 that eliminates the wrong answers and gives you a chance 50% to pick a correct answer. After you choose one option (among four) it moves to the next question. As user completes the quiz the record of the correct answers appears on the pane. User has an option to save the score with name (user can enter the name) or to exit the quiz-game.
+
+![](https://github.com/Aisuluu817/JavaFinalExam/blob/master/QuizzzFinal/img/screen_quiz.png)
+![save result](https://github.com/Aisuluu817/JavaOOP/blob/master/QuizzzFinal/img/screenshots/screen_result.png)
+![record](https://github.com/Aisuluu817/JavaOOP/blob/master/QuizzzFinal/img/screenshots/screen_record.png)
 
 
 
