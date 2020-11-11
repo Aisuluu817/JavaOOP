@@ -2,7 +2,6 @@
 This is my final project for Object Oriented Programming course.
 
 ## Title of the Project – Quiz
-The full Project Report provided in Wiki component.
 ![main page](https://github.com/Aisuluu817/JavaOOP/blob/master/QuizzzFinal/img/screenshots/screen_main.png)
 
 ## Background
